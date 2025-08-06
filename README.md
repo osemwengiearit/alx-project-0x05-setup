@@ -1,2 +1,3 @@
 # alx-project-0x05-setup
-HookMastery: Unleashing the Power of React Hooks.
+
+This project focuses on building an AI-powered image generation app using Next.js, TypeScript, Tailwind CSS, and React Hooks.
