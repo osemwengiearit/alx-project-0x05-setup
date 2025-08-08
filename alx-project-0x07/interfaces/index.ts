@@ -1,4 +1,4 @@
-import { ReactNode } from 'react';
+import { ReactNode } from "react";
 
 export interface ReactComponentProps {
   children: ReactNode;
@@ -12,4 +12,4 @@ export interface GeneratedImageProps {
   action: (imagePath: string) => void;
 }
 
-export type ImageProps = Pick<GeneratedImageProps, 'imageUrl' | 'prompt'>;
+export type ImageProps = Pick<GeneratedImageProps, "imageUrl" | "prompt">;
